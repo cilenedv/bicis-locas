@@ -9,7 +9,7 @@ function validateForm(){
 		return false;
 	}
    
-	if(contrasena.length<6 && ){
+	if(contrasena.length<6  ){
 		alert("La contrasena no puede tener menos de 6");
 		return false;
 	}
